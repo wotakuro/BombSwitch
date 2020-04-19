@@ -2,12 +2,11 @@
 
 こちらは Digispark とスイッチを用いて、エンターキーにするものです。
 
-回路：
-![](Wire.jpg)
-
-<pre>
-・BombButtonCase.stl
-　ケース用のモデルです
-・digiKeyboard.c
-　Arduino上でのコードです
-</pre>
+・回路：<br />
+![](Wire.jpg)<br />
+・BombButtonCase.stl<br />
+　ケース用のモデルです<br />
+・digiKeyboard.c<br />
+　Arduino上でのコードです<br />
+ 
+ ※16mm直径穴なのでボタンスイッチはそういうものを想定しています
