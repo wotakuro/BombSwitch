@@ -1,13 +1,13 @@
-# ƒXƒCƒbƒ`İŒv}
+# ã‚¹ã‚¤ãƒƒãƒè¨­è¨ˆå›³
 
-‚±‚¿‚ç‚Í Digispark ‚ÆƒXƒCƒbƒ`‚ğ—p‚¢‚ÄAƒGƒ“ƒ^[ƒL[‚É‚·‚é‚à‚Ì‚Å‚·B
+ã“ã¡ã‚‰ã¯ Digispark ã¨ã‚¹ã‚¤ãƒƒãƒã‚’ç”¨ã„ã¦ã€ã‚¨ãƒ³ã‚¿ãƒ¼ã‚­ãƒ¼ã«ã™ã‚‹ã‚‚ã®ã§ã™ã€‚
 
-‰ñ˜HF
-[](Wire.jpg)
+å›è·¯ï¼š
+![](Wire.jpg)
 
 <pre>
-EBombButtonCase.stl
-@ƒP[ƒX—p‚Ìƒ‚ƒfƒ‹‚Å‚·
-EdigiKeyboard.c
-@Arduinoã‚Å‚ÌƒR[ƒh‚Å‚·
+ãƒ»BombButtonCase.stl
+ã€€ã‚±ãƒ¼ã‚¹ç”¨ã®ãƒ¢ãƒ‡ãƒ«ã§ã™
+ãƒ»digiKeyboard.c
+ã€€Arduinoä¸Šã§ã®ã‚³ãƒ¼ãƒ‰ã§ã™
 </pre>
