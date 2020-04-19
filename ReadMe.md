@@ -1,13 +1,12 @@
-# �X�C�b�`�݌v�}
+# スイッチ設計図
 
-������� Digispark �ƃX�C�b�`��p���āA�G���^�[�L�[�ɂ�����̂ł��B
+こちらは Digispark とスイッチを用いて、エンターキーにするものです。
 
-��H�F
-[](Wire.jpg)
-
-<pre>
-�EBombButtonCase.stl
-�@�P�[�X�p�̃��f���ł�
-�EdigiKeyboard.c
-�@Arduino��ł̃R�[�h�ł�
-</pre>
+・回路：<br />
+![](Wire.jpg)<br />
+・BombButtonCase.stl<br />
+　ケース用のモデルです<br />
+・digiKeyboard.c<br />
+　Arduino上でのコードです<br />
+ 
+ ※16mm直径穴なのでボタンスイッチはそういうものを想定しています
